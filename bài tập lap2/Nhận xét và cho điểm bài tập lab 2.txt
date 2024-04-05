@@ -1,0 +1,31 @@
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: số có 3 chữ số không có chữ số hàng nghìn
+Điểm bài tập: 0.75
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4: đúng
+Điểm bài tập: 1.0 
+
+- Bài 5: giá vé đều giảm 5% từ 2 người trở lên?
+Điểm bài tập: 0.5
+
+- Bài 6: nếu trong trường hợp 3 số bằng nhau thì đâu là số lớn thứ hai?
+Điểm bài tập: 0.75
+
+- Bài 7: đúng
+Điểm bài tập: 1.0
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: trống
+Điểm bài tập: 0
+
+Tổng điểm bài tập lab 2: 8.0
